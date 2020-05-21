@@ -1,5 +1,5 @@
 <ul>
-  {%- for post in postslist -%}
+  {%- for post in postslist | reverse -%}
   <h1 style="font-size:18px;margin-bottom:0px;"><a href="{{ post.url }}">{{ post.data.title }}</a></h1>
   <p style="font-size:12px;color:#ddd;margin-top:0px;margin-bottom:25px;">{{ post.data.date }}</p>
   {%- endfor -%}
