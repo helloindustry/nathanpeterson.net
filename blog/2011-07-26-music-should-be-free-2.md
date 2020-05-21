@@ -1,0 +1,12 @@
+---
+layout: blog.html
+date: 2011-07-26
+title: "Blog Post: Music Should Be Free"
+tags: ['post']
+---
+<p>I love making music. I love the entire process of writing, arranging, re-writing, recording, mixing, performing. I love hearing people's interpretations of the songs. I live to hear stories from people who have been genuinely helped by a song I wrote. Like, seriously helped. Like, it carried them through a time of deep depression and suicidal thinking. Stories like that make the 2-3 years of work we do on each album completely worth it, all of it, for one story. I especially love when the music is helpful to students. Jr Hi was the worst time of my life, and I still sing the songs in my head that carried me through that time. I can name each song and sing every word. That was my lifeline.</p>
+<p>I feel very justified spending my professional life writing, recording, performing music for depressed and confused and suicidal Jr Hi students. We may branch out in other directions, but if that's it, I'm satisfied.</p>
+<p>So here's something I'm thinking about: I'm realizing that I have a fundamental problem with the practice of charging people (especially students) for music. If our ultimate goal is for them to have the music, why should we put something between them and the music? If it's really for them, why should they have to pay for it? We need money to keep making music. But by charging for it, we're making it harder for people to have it.</p>
+<p>This week we played for about 700 students in Michigan. Typically CD sales would be 10% of the crowd, so we'd sell about 70 CDs. That thought made me sick, so I told them they had to leave with the music - even if I had to pay for their CDs. We ended up paying for a lot of CDs! But 450 CDs went out in one day. Those CDs are in people's CD players now, or ripped to their iTunes library. I think we did about $3/CD on average. After the cost of the actual CDs, that's not quite the same profit margin as $12/CD. But to be honest, I would have paid money if I knew that more CDs would end up in more students' hands.</p>
+<p>I don't know. Maybe we're just driving the nails into our financial coffin. But I'm coming to the conclusion (even more as I write this post) that we (and by "we" I mean all musicians and songwriters with a helpful message) need to find a way to operate as a business while giving music away to our audience.</p>
+<p>I'm open to suggestions!<br />-np</p>
