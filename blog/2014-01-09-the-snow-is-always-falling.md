@@ -1,7 +1,0 @@
----
-layout: blog.html
-date: 2014-01-09
-title: "Blog Post: The snow is always falling"
-tags: ['post']
----
-The snow is always falling. It's covering what's underneath and has to be cleared, regularly. I can't clear it and forget it - it always falls. I have to daily, hourly, clear off the snow to regain clarity.
