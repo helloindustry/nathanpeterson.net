@@ -6,6 +6,13 @@ layout: default.html
 <section class="section">
   <div class="container" style="min-height:80vh;margin-top:50px;max-width:1000px;">
     <h1 class="title" style="margin-bottom:30px;">Latest posts</h1>
-      {% set postslist = collections.post %} {% include "postslist.njk" %}
+      <!-- {% set postslist = collections.post %} {% include "postslist.njk" %} -->
+
+      {% for post in collections.post %}
+
+      - [{{post.data.title}}]({{post.url}})
+
+      {% endfor %}
+
     </div>
 </section>
