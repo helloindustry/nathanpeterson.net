@@ -1,0 +1,11 @@
+---
+layout: default.html
+---
+<link rel="stylesheet" href="https://eloquent-meitner-a0eb61.netlify.app/css/main.css">
+
+<section class="section">
+  <div class="container" style="min-height:80vh;margin-top:50px;max-width:1000px;">
+    <h1 class="title" style="margin-bottom:10px;">Latest posts</h1>
+      {% set postslist = collections.post %} {% include "postslist.njk" %}
+    </div>
+</section>
