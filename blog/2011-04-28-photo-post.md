@@ -1,8 +1,8 @@
 ---
-date: 2011-04-28
-title: "Blog Post: Photo post"
-tag: post
 layout: blog.html
+title: "Blog Post: Photo post"
+date: 2011-04-28
+tag: post
 ---
 <img src='/blog/images/3ff18d412de34a4dba39ceb1735898f5bf3497b29447d81202dafba4f0df58a8.png'>
 
