@@ -6,7 +6,7 @@ layout: default.html
     <h1 class="title" style="margin-bottom:30px;">Latest posts</h1>
     <ul>
       {% for blog in collections.post | reverse %}
-      <h1 style="font-size:18px;margin-bottom:0px;"><a href="{{ post.url }}">{{ blog.data.title }}</a></h1>
+      <h1 style="font-size:18px;margin-bottom:0px;"><a href="{{ blog.url }}">{{ blog.data.title }}</a></h1>
       <p style="font-size:12px;color:#ddd;margin-top:0px;margin-bottom:25px;">{{ blog.data.date }}</p>
       {%- endfor -%}
     </ul>
