@@ -1,6 +1,6 @@
 ---
 date: 2014-06-20
-title: "Blog Post: My Most Important Apps"
+title: "My Most Important Apps"
 ---
 After screwing up my iPhone and my laptop with the newest Apple betas, I decided to install everything fresh. I think it's interesting to note which apps get installed immediately after a fresh OS install. Here are the apps I installed:
 

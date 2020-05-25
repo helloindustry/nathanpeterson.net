@@ -1,6 +1,6 @@
 ---
 date: 2011-11-02
-title: "Blog Post: Blob Switch"
+title: "Blob Switch"
 ---
 I've spent the last 12 years of my life on stage. Here's the biggest lesson I've learned so far:
 

@@ -1,6 +1,6 @@
 ---
 date: 2011-10-05
-title: "Blog Post: Become A Better Screwup"
+title: "Become A Better Screwup"
 ---
 <p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;">"The longer you do something the less mistakes you'll make."</p>
 <p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;"><br />I think that's an amateur concept.</p>

@@ -1,6 +1,6 @@
 ---
 date: 2018-09-13
-title: "Blog Post: Photo post"
+title: "Photo"
 ---
 <img src='/blog/images/7c5a84b48566b10a290281cef48e5d9d88348810f5574200ab486cdca8afcf64.jpg'>
 

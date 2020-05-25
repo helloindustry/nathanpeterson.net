@@ -1,6 +1,6 @@
 ---
 date: 2020-04-24
-title: "Blog Post: rest today"
+title: "rest today"
 ---
 The rain feels good today, like a blanket forcing you to cuddle up where you are.
 

@@ -1,6 +1,6 @@
 ---
 date: 2012-05-02
-title: "Blog Post: What If Emptiness Is Good?"
+title: "What If Emptiness Is Good?"
 ---
 <p>Usually I like to post on stuff I know something about. Today I think I&#8217;ll post on something I know absolutely nothing about. ;)</p>
 

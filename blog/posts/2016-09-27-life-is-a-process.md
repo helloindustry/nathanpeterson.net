@@ -1,6 +1,6 @@
 ---
 date: 2016-09-27
-title: "Blog Post: Life is a Process"
+title: "Life is a Process"
 ---
 Things take a lot longer to process and feel than we give ourselves time for. We're still experiencing that first night in the hospital with Olivia. When they handed me my baby who I thought was dead... I didn't process that then - I was just surviving - I'm processing it now.
 

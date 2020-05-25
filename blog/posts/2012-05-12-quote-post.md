@@ -1,6 +1,6 @@
 ---
 date: 2012-05-12
-title: "Blog Post: Quote post"
+title: "Quote post"
 ---
 
 

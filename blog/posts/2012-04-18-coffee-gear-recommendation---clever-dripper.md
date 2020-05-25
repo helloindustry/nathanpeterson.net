@@ -1,6 +1,6 @@
 ---
 date: 2012-04-18
-title: "Blog Post: Coffee Gear Recommendation - Clever Dripper"
+title: "Coffee Gear Recommendation - Clever Dripper"
 ---
 <p align="center"><a href="http://www.amazon.com/Coffee-Shrub-Clever-Dripper/dp/B004TS827C/ref=sr_1_2?ie=UTF8&amp;qid=1334249565&amp;sr=8-2" target="_blank"><img src="/images/b79d4144c57c789564bd175d525bd7c794889bc882d12aa9f680cb178f7e3b89.jpg" /></a></p>&#13;
 <p>My favorite coffees ever have been as a result of a Chemex brew. But my most frequent and consistent very <em>very</em> good coffees have come from the Clever Dripper brewer. There is by far no easier and more consistent way to brew a great cup of coffee at home, at least that I'm aware of.</p>&#13;

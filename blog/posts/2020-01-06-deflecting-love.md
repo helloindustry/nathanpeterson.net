@@ -1,6 +1,6 @@
 ---
 date: 2020-01-06
-title: "Blog Post: Deflecting Love"
+title: "Deflecting Love"
 ---
 Deflecting affection and appreciation — love — in the name of loving others or loving God only diminishes love’s power.
 

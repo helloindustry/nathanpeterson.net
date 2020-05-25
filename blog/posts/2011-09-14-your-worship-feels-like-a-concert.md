@@ -1,6 +1,6 @@
 ---
 date: 2011-09-14
-title: "Blog Post: Your Worship Feels Like a Concert"
+title: "Your Worship Feels Like a Concert"
 ---
 "Your worship feels like a concert."
 My response: "Thanks!"

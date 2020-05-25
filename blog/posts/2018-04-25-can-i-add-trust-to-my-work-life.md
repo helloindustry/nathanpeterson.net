@@ -1,6 +1,6 @@
 ---
 date: 2018-04-25
-title: "Blog Post: Can I add trust to my work-life?"
+title: "Can I add trust to my work-life?"
 ---
 Can I add trust to my work-life?
 

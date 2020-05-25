@@ -1,6 +1,6 @@
 ---
 date: 2016-02-16
-title: "Blog Post: Superhuman"
+title: "Superhuman"
 ---
 Two nights ago Olivia slept through the entire night (!) and the other three kids were at grandma’s. That may be the first full night of sleep we’ve had since Olivia’s been born. 400 days of sleep deprivation.
 

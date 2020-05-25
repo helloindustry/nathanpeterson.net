@@ -1,6 +1,6 @@
 ---
 date: 2011-10-12
-title: "Blog Post: Exciting Announcement!!!"
+title: "Exciting Announcement!!!"
 ---
 <p>I have an exciting announcement to make...</p>
 <p>As of next week, I'll be transitioning to part-time at Richwoods to more fully pursue the mission of Hello Industry.</p>

@@ -1,6 +1,6 @@
 ---
 date: 2012-03-09
-title: "Blog Post: Stage Presence in Worship Leading - The One-Pixel Line"
+title: "Stage Presence in Worship Leading - The One-Pixel Line"
 ---
 <p>Should stage presence even play a part in worship leading? I'd argue that it's <em>crucial</em>. But I fear that in an attempt to appear "humble", we've destroyed stage presence in churches everywhere and severely limited the impact of our worship services.</p>
 <p>The heart behind it makes sense. We want to put the focus on God and the Message, not on the performers on stage. We want to differentiate ourselves from self-serving pop divas who seem to care more about their wardrobe than the people they're playing for. I get that and I agree. But we've thrown the baby out with the bath water.</p>

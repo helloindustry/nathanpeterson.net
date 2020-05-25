@@ -1,6 +1,6 @@
 ---
 date: 2019-10-16
-title: "Blog Post: Redefining “Spiritual Leadership\""
+title: "Redefining “Spiritual Leadership\""
 ---
 Spiritual Leadership is a topic which feels so important to me lately. I'm not only referring to leadership within the Church... Spiritual Leadership is crucial for our entire culture. We need it in our city as much as we do in our church, but only if it is true leadership, and that brings me back to the definition of "Spiritual Leadership." It's gone off-course. We have to redefine it.
 

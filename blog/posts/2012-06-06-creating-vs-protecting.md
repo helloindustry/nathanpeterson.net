@@ -1,6 +1,6 @@
 ---
 date: 2012-06-06
-title: "Blog Post: Creating vs Protecting"
+title: "Creating vs Protecting"
 ---
 <p>There’s a constant pull in me, between my desire to create and my need to protect myself. <strong>To create is to give</strong>, yet I tend to favor protection.</p>&#13;
 <p>To create, for me, looks like:</p>&#13;

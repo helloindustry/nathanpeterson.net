@@ -1,6 +1,6 @@
 ---
 date: 2012-08-08
-title: "Blog Post: More Thoughts On My Insanity Problem"
+title: "More Thoughts On My Insanity Problem"
 ---
 <p>Someone asked me to elaborate a bit on <a href="http://nathanpeterson.tumblr.com/post/27903002648/im-starting-to-think-theres-a-very-fine-line" target="_blank">this post</a> I made a couple weeks ago. The comment was that following the Spirit feels a lot like clinical insanity.</p>
 <p>I wish I didn&#8217;t feel that way. I wish I had such a clear and direct connection to God that every time He said something I knew exactly what He said and what to do about it. I wish I could approach someone and say &#8220;God told me to tell you this&#8221; and not add a bunch of fine print about &#8220;I *feel* like God said&#8221; and &#8220;I could be wrong&#8221;. It seems to me that life would be so much simpler if God just said &#8220;do this&#8221; and we could either say yes or no.</p>

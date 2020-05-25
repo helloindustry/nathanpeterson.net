@@ -1,6 +1,6 @@
 ---
 date: 2013-11-20
-title: "Blog Post: Where Do I Fit In All Of This?"
+title: "Where Do I Fit In All Of This?"
 ---
 <p>Tragedies like the tornados in Washington this week expose my self-centeredness. Not because I don&#8217;t want to help. But because every time a chance to help comes up, I immediately look for a way to make it about me. A devastating event for others becomes an opportunity for me to be a hero.</p>
 

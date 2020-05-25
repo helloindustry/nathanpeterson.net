@@ -1,6 +1,6 @@
 ---
 date: 2016-03-12
-title: "Blog Post: Photo post"
+title: "Photo"
 ---
 <img src='/blog/images/46e10758b60ef1174bc87aac37555e04d46fa5fe4145566169282f6ca0184c81.jpg'>
 

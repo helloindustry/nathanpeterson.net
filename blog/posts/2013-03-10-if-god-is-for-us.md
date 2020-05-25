@@ -1,6 +1,6 @@
 ---
 date: 2013-03-10
-title: "Blog Post: If God Is For Us"
+title: "If God Is For Us"
 ---
 <p>I&#8217;m standing here, singing that if God is for us, who can be against us. I&#8217;m mouthing it because I have no voice, but I&#8217;m still trying very hard to mean it.</p>
 

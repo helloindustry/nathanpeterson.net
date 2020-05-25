@@ -1,6 +1,6 @@
 ---
 date: 2013-10-31
-title: "Blog Post: There Are a Lot Of Things That Need To Be Done"
+title: "There Are a Lot Of Things That Need To Be Done"
 ---
 <p>There are a lot of things that need to be done. But the only reason they need to be done <em>fast</em> is because <em>I</em> need them to be done fast. I need to work at a frantic pace because I feel more safe when I&#8217;m working and not stopping.</p>
 

@@ -1,6 +1,6 @@
 ---
 date: 2012-02-02
-title: "Blog Post: Planner vs To-do List"
+title: "Planner vs To-do List"
 ---
 I'm thinking about ditching to-do lists and going with a daily planner strategy instead.
 

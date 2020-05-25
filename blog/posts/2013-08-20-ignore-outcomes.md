@@ -1,6 +1,6 @@
 ---
 date: 2013-08-20
-title: "Blog Post: Ignore Outcomes"
+title: "Ignore Outcomes"
 ---
 <p>Things just kind of happen. Sometimes they&rsquo;re predictable, sometimes they&rsquo;re not. Sometimes they&rsquo;re positive, sometimes not. It all seems to balance out in the end. What&rsquo;s interesting to me is the seemingly and surprisingly little correlation between specific actions and outcomes. &ldquo;The rain falls on the righteous as well as the unrighteousness.&rdquo; My conclusion is that <strong>action for the sake of a particular outcome is a mistake.</strong> It's a recipe for disillusionment.</p>
 <p>So why try?</p>

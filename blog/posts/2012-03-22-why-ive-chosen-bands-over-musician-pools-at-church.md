@@ -1,6 +1,6 @@
 ---
 date: 2012-03-22
-title: "Blog Post: Why I've Chosen Bands Over Musician Pools at Church"
+title: "Why I've Chosen Bands Over Musician Pools at Church"
 ---
 In conversations I've had with worship pastors, the "musician pool" vs "band" method of managing musicians has come up quite a bit. It seems like the pool method is the predominant method in churches today. I've chosen the band route and have encouraged other churches to do the same. I'll explain why, quickly:
 

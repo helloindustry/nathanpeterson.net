@@ -1,6 +1,6 @@
 ---
 date: 2013-03-04
-title: "Blog Post: 3 things I'm learning:"
+title: "3 things I'm learning:"
 ---
 <p>1. It’s better to walk the right path than an easy one.</p>
 

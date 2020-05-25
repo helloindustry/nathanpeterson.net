@@ -1,6 +1,6 @@
 ---
 date: 2012-01-26
-title: "Blog Post: Things I Learned While 31"
+title: "Things I Learned While 31"
 ---
 Just turned 32. Here’s some stuff I learned while I was 31:
 

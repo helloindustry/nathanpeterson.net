@@ -1,6 +1,6 @@
 ---
 date: 2015-04-08
-title: "Blog Post: I'm so scared of the future."
+title: "I'm so scared of the future."
 ---
 I'm so scared of the future.
 

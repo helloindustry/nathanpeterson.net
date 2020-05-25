@@ -1,6 +1,6 @@
 ---
 date: 2012-07-11
-title: "Blog Post: Hand grinder comparisons (for coffee nerds)"
+title: "Hand grinder comparisons (for coffee nerds)"
 ---
 If you know me at all you know I kind of get *way* into things when I get into them. For the past few years I've been working on perfecting my coffee making skills at home. I've learned that each piece of the process is just as important as the next. This past month I've been focusing in on grinders. This week I did some A/B testing of hand grinders.
 

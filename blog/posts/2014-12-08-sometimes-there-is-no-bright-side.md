@@ -1,6 +1,6 @@
 ---
 date: 2014-12-08
-title: "Blog Post: Sometimes There Is No Bright Side"
+title: "Sometimes There Is No Bright Side"
 ---
 <p>Sometimes there is no bright side. </p>
 

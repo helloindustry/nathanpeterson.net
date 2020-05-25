@@ -1,6 +1,6 @@
 ---
 date: 2016-01-14
-title: "Blog Post: Wisdom from a 36 year old (6 things I'd like to tell my 35 year old self)"
+title: "Wisdom from a 36 year old (6 things I'd like to tell my 35 year old self)"
 ---
 1. When tragedy comes, the first thing to go must be worry. It&#x27;s the thing you spend the most time on which has the least benefits.
 

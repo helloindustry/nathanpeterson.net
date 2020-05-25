@@ -1,6 +1,6 @@
 ---
 date: 2014-02-21
-title: "Blog Post: A New Chapter"
+title: "A New Chapter"
 ---
 <p>The last few years have been a crazy time of change for our family. While much of the time we&#8217;ve felt out of control, we&#8217;ve had an overarching sense of peace - like everything was &#8220;on track&#8221;, that this was all part of the plan, and that our job in this was to <em>let go</em>, let the current take us, and learn to rest in that current. For me personally, it&#8217;s been about the hardest thing I&#8217;ve ever had to do - to force myself to stay still - to favor listening over making things happen. If you know me, you understand. But while it&#8217;s been hard, these years have been the best years of my life. If I&#8217;ve learned nothing else, I&#8217;ve at least learned to give up the ridiculous notion than there&#8217;s any direct correlation between this world&#8217;s definition of &#8220;success&#8221; and true progress (I&#8217;ll go into it in another post).</p>
 

@@ -1,6 +1,6 @@
 ---
 date: 2011-10-26
-title: "Blog Post: I Move That We Kill Christian Culture"
+title: "I Move That We Kill Christian Culture"
 ---
 <p>I've spent the last few years wondering if I was really a Christian.</p>
 <p>I mean, I believe Jesus is who He says He is. I believe He did what the Bible says He did. I'm basing my life and my eternity on it. I write about it. My career and my family are built around it. The fact that I don't have to live and die with the weight of my sin on my back and that I don't have to keep on hurting the people around me and can instead become a light to my family, my friends, and to the world… that's everything to me. And it's all based on Jesus, who He is and what He did and is doing.</p>

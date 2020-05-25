@@ -1,6 +1,6 @@
 ---
 date: 2011-10-19
-title: "Blog Post: Fly Your Own Plane"
+title: "Fly Your Own Plane"
 ---
 <p>Starting something new is like designing a plane. It takes a lot of work and heart. Lots of long hours and tons of money. Finishing the plane is rewarding.</p>
 <p>But at some point, someone has got to find out if it will fly. That's something else.</p>

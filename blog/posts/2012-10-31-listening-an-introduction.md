@@ -1,6 +1,6 @@
 ---
 date: 2012-10-31
-title: "Blog Post: Listening (an introduction)"
+title: "Listening (an introduction)"
 ---
 <p>Statement: <strong>Your primary responsibility as a worship leader is to <strong>listen to the Spirit and do what He says.</strong></strong></p>&#13;
 <p>This is an introduction. I’ll spend a few future post reinforcing this statement for worship leaders. Hopefully it’s helpful.</p>&#13;

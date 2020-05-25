@@ -1,6 +1,6 @@
 ---
 date: 2013-02-21
-title: "Blog Post: What If You're Still Good?"
+title: "What If You're Still Good?"
 ---
 <p><strong>One of he hardest and most crucial challenges we face in this life is to see ourselves the way God sees us, and to live true to that image.</strong></p>
 <p>It's hard because everyone around us seems to have something to gain by telling us who we are. Our family looks bad if we don't turn out, so they need us to finish college, get a good job, and raise more good kids. Our friends need us to be there for them, so there's no room for break-downs or freak-outs. Our church needs us to volunteer. Be involved. Because what's more important than serving God? Our spouse or girl/boyfriend needs us to be strong and responsible. Don't get sick. Don't look weak or ugly, or you may lose your appeal.</p>

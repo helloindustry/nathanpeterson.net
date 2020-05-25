@@ -1,6 +1,6 @@
 ---
 date: 2012-04-03
-title: "Blog Post: 2 Tips Regarding Talking Worship Leaders"
+title: "2 Tips Regarding Talking Worship Leaders"
 ---
 Here's a *pre*-tip to start: **Don't say anything if you don't have something to say.** Worship leaders have got to stop feeling the pressure to be speakers. Assuming you have something to say…
 

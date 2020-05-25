@@ -1,6 +1,6 @@
 ---
 date: 2012-09-20
-title: "Blog Post: Human Touch"
+title: "Human Touch"
 ---
 <p>I&#8217;m a part of Richwoods Christian Church in Peoria, IL where I live. From time to time I lead worship there. I always find it interesting to evaluate myself as a worship leader from service to service since there are three services per weekend. I think I&#8217;m seeing a pattern&#8230;</p>
 

@@ -1,6 +1,6 @@
 ---
 date: 2012-09-14
-title: "Blog Post: Running Out Of Space"
+title: "Running Out Of Space"
 ---
 <p>It seems to be a fairly accepted idea that in most things - business, art, conversations, food - what you <em>omit</em> is more important that what you include. Companies like Apple, Twitter, Google, and 37 Signals have taught us this. The steak seasoning that wins the most awards: salt. The people we love to talk with and consider our most trusted friends: the ones who talk less and listen more. The best ideas are the simplest ideas that somehow no one else thought of because it was “too simple”.</p>&#13;
 <p>While this idea of omission trumping inclusion is becoming more accepted, it’s still not widely practiced. Companies like Apple or conversationalists like your best friend are far and few between. Why?</p>&#13;

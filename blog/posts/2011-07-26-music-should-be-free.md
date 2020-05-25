@@ -1,6 +1,6 @@
 ---
 date: 2011-07-26
-title: "Blog Post: Music Should Be Free"
+title: "Music Should Be Free"
 ---
 <p>I love making music. I love the entire process of writing, arranging, re-writing, recording, mixing, performing. I love hearing people's interpretations of the songs. I live to hear stories from people who have been genuinely helped by a song I wrote. Like, seriously helped. Like, it carried them through a time of deep depression and suicidal thinking. Stories like that make the 2-3 years of work we do on each album completely worth it, all of it, for one story. I especially love when the music is helpful to students. Jr Hi was the worst time of my life, and I still sing the songs in my head that carried me through that time. I can name each song and sing every word. That was my lifeline.</p>
 <p>I feel very justified spending my professional life writing, recording, performing music for depressed and confused and suicidal Jr Hi students. We may branch out in other directions, but if that's it, I'm satisfied.</p>

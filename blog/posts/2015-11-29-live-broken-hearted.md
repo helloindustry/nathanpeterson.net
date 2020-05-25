@@ -1,6 +1,6 @@
 ---
 date: 2015-11-29
-title: "Blog Post: Live Broken-Hearted"
+title: "Live Broken-Hearted"
 ---
 My heart has been broken so many times lately. It breaks when I log on FB and see friends talking about horrible things happening around the world. It breaks at things happening in our own home. It breaks at things happening in my own mind and heart.
 

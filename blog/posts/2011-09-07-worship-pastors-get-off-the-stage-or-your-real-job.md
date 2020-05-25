@@ -1,6 +1,6 @@
 ---
 date: 2011-09-07
-title: "Blog Post: Worship Pastors: Get Off the Stage (or \"Your Real Job\")"
+title: "Worship Pastors: Get Off the Stage (or \"Your Real Job\")"
 ---
 <p>What do worship pastors do all week anyway?</p>&#13;
 <p>I mean really. They pick some songs, lead a rehearsal, and lead the church on Sunday. Does that take 40hrs? Even 20hrs?</p>&#13;

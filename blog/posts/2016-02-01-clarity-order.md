@@ -1,6 +1,6 @@
 ---
 date: 2016-02-01
-title: "Blog Post: Clarity > Order"
+title: "Clarity > Order"
 ---
 I realized this morning during a walk, I spend too much energy trying to “get my life in order”. I should realize by now, my life will never feel “in order”.
 

@@ -1,6 +1,6 @@
 ---
 date: 2011-11-30
-title: "Blog Post: Dealing With \"Too Loud\" Complaints in Church"
+title: "Dealing With \"Too Loud\" Complaints in Church"
 ---
 <p>In my 10yrs as a worship pastor, the issue that's come up more than any other issue has been the issue of volume. From countless conversations I've had with other worship pastors, I'm going to guess that it's in the top 3 for most churches - at least the ones attempting modern music.</p>
 <p>I think the issue deserves more time than just turning up or down the master volume knob, so I'm going to attempt to tackle it in more depth here.</p>

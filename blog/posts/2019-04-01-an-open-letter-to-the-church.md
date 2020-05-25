@@ -1,6 +1,6 @@
 ---
 date: 2019-04-01
-title: "Blog Post: An open letter to the Church"
+title: "An open letter to the Church"
 ---
 Re: the direction and future the Church
 

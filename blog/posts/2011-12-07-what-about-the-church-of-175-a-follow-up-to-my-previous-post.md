@@ -1,6 +1,6 @@
 ---
 date: 2011-12-07
-title: "Blog Post: What About the Church of 175? (a follow up to my previous post)"
+title: "What About the Church of 175? (a follow up to my previous post)"
 ---
 <p>A pastor and friend brought up a great question in response to <a href="http://nathanpeterson.tumblr.com/post/13563390084">last week's post</a>:</p>
 <p><em>"93% of churches in America are under 350 people in size. Most of those do not have the budget or the pool of volunteers to use a "professionally trained" sound tech. They simply are looking for a warm body and don't have the money to invest in training or hiring someone outside of the worship minister. What can they realistically do? How can they address the "too loud issue"? Is there a stop-gap solution? When they can't get someone in to address the mix, is turning it down a temporary solution?"</em></p>

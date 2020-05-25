@@ -1,6 +1,6 @@
 ---
 date: 2012-04-06
-title: "Blog Post: Generous Performance"
+title: "Generous Performance"
 ---
 I can tell you why I first stepped onto a stage. It wasn't to help people. It wasn't to say something. It wasn't to show people how awesome I was (I wasn't). It was to get something I desperately needed - proof that I mattered. If you want a quick and efficient way to prove to yourself that your life matters, just look for the nearest big stage and get yourself up on it. Even if you suck, if the crowd is big enough you'll get all the praise you can handle. I think if we're honest (I'm talking to performers, speakers, and other stage-dwellers), most of us stepped onto the stage to *get* something. Not to *give* something. And it makes sense. Who of us really had much to give the first time we stepped on the stage? Maybe you were like me and you needed to prove something to yourself. Maybe your dad never approved of you and you figured "screw him if I can get 10,000 people to all approve of me". Maybe your spouse thinks you're a hack... but *they* don't. They love you. Maybe you feel validated when a crowd will do things you tell them to do (I'm looking at you, alter-call addicts).
 

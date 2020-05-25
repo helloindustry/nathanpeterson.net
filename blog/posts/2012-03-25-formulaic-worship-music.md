@@ -1,6 +1,6 @@
 ---
 date: 2012-03-25
-title: "Blog Post: Formulaic Worship Music"
+title: "Formulaic Worship Music"
 ---
 <p>&#8220;I am retarded. God is perfect. Jesus died on the cross. Now everything is great.&#8221;</p>
 

@@ -1,6 +1,6 @@
 ---
 date: 2016-01-06
-title: "Blog Post: Who are you to talk about yourself?"
+title: "Who are you to talk about yourself?"
 ---
 It feels weird. Talking about myself and my life. I feel self conscious and egotistical.
 

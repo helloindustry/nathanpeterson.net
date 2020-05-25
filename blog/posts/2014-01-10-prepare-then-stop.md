@@ -1,6 +1,6 @@
 ---
 date: 2014-01-10
-title: "Blog Post: Prepare, Then Stop"
+title: "Prepare, Then Stop"
 ---
 <p>Such a common theme for me right now - <strong>Prepare sufficiently. Then stop preparing - rest - don&#8217;t think about it. When it&#8217;s time, trust my self, my prep, the process, God.</strong></p>
 

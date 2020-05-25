@@ -1,6 +1,6 @@
 ---
 date: 2014-04-03
-title: "Blog Post: Failure doesn't lead to the things we're afraid of"
+title: "Failure doesn't lead to the things we're afraid of"
 ---
 <p>Failure doesn’t lead to the things we’re afraid of. How we <em>deal</em> with failure determines if those things happen. But how we deal with failure also determines if we <em>learn something, get up, and keep our resolve to move forward, now with an even clearer vision.</em></p>
 

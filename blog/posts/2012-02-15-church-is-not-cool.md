@@ -1,6 +1,6 @@
 ---
 date: 2012-02-15
-title: "Blog Post: Church is Not Cool"
+title: "Church is Not Cool"
 ---
 Just accept it and we'll all be better off.
 

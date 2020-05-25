@@ -1,6 +1,6 @@
 ---
 date: 2013-08-28
-title: "Blog Post: Anchors Up"
+title: "Anchors Up"
 ---
 <p></p>
 <p>The wind blows where it pleases. We toss an anchor. We never see where it was going.</p>

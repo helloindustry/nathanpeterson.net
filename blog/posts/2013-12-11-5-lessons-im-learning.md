@@ -1,6 +1,6 @@
 ---
 date: 2013-12-11
-title: "Blog Post: 5 Lessons I'm Learning"
+title: "5 Lessons I'm Learning"
 ---
 <p>Most of the books I&#8217;m reading and lessons I&#8217;m learning lately can be boiled down to these 5 things. They may seem simple to you, but right now they&#8217;re profound to me.</p>
 

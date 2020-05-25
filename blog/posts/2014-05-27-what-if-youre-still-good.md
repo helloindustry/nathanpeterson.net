@@ -1,6 +1,6 @@
 ---
 date: 2014-05-27
-title: "Blog Post: What If You're Still Good?"
+title: "What If You're Still Good?"
 ---
 So much of my thought-life is centered around the worry that I'm not good enough.
 

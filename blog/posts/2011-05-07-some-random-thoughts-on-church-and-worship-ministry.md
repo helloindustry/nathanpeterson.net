@@ -1,6 +1,6 @@
 ---
 date: 2011-05-07
-title: "Blog Post: Some Random Thoughts on Church and Worship Ministry"
+title: "Some Random Thoughts on Church and Worship Ministry"
 ---
 <p>I friend from church asked me to share some thoughts on worship ministry in churches with him for a school project. I figured I'd post it here in case the topic intrigued anyone else. Just some random thoughts...</p>
 <p>---</p>

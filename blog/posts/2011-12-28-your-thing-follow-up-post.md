@@ -1,6 +1,6 @@
 ---
 date: 2011-12-28
-title: "Blog Post: Your \"Thing\" (follow-up post)"
+title: "Your \"Thing\" (follow-up post)"
 ---
 <p>This is a follow up to the <a href="http://nathanpeterson.tumblr.com/post/14571673943/living-in-default" target="_blank">"living in default" thought from last week</a>. I think most of us would say we're not satisfied living in default. So why does it happen, and what can we do to change it?</p>
 <p>I can be sitting across from someone who has the potential to be a <em>huge</em> light in this dark world. To challenge the status quo and actually change it because of their influence. To do something no one has ever had the guts to try before, and succeed. But something's stopping them. They're living in default instead.</p>

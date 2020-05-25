@@ -1,6 +1,6 @@
 ---
 date: 2011-11-16
-title: "Blog Post: It's *Not* Just You and God"
+title: "It's *Not* Just You and God"
 ---
 When you're in your car and you're singing your brains out, it's just you and God.
 

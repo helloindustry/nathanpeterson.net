@@ -1,6 +1,6 @@
 ---
 date: 2012-05-09
-title: "Blog Post: Implementing In-Ears At Church"
+title: "Implementing In-Ears At Church"
 ---
 <p>I&#8217;ve had this conversation several times lately, so I thought I&#8217;d post my thoughts here as well, in case it&#8217;s helpful. Here are some of my thoughts on implementing in-ears in smaller churches:</p>
 

@@ -1,6 +1,6 @@
 ---
 date: 2016-06-14
-title: "Blog Post: Travel Farther Down"
+title: "Travel Farther Down"
 ---
 My daughter died 3 months ago. I remember one friend, Beth, brought us a meal not knowing Olivia was dead in my arms on our back porch. Beth smiled and said hi. I watched her face as she looked at ours and realized Olivia was gone. I watched as she traveled FAR down, from every-day to the deepest place of anguish. In one instant, she was there, with us. She didn’t speak another word, and she didn’t have to. I saw it on her face - her expression summed up everything we were feeling. I will never forget Beth’s act of kindness that night.
 

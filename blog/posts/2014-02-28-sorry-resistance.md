@@ -1,6 +1,6 @@
 ---
 date: 2014-02-28
-title: "Blog Post: Sorry, Resistance"
+title: "Sorry, Resistance"
 ---
 <p>I&#8217;ve observed that on weeks when I&#8217;m releasing something to the public, my internal battles are much more intense. Things seem impossible. I&#8217;m angry for no reason. I fight with my wife. I&#8217;m distant from my kids.</p>
 

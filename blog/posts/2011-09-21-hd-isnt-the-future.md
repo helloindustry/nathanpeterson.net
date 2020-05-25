@@ -1,6 +1,6 @@
 ---
 date: 2011-09-21
-title: "Blog Post: HD Isn't The Future"
+title: "HD Isn't The Future"
 ---
 <p>Neither are lower thirds. Flying titles. Surround sound. Papyrus font.</p>&#13;
 <p>At one point (sometime around 1993 I think) PowerPoint transitions impressed people. It got their attention. We realized it, so we started using visual and technological pizzazz in business presentations and commercials and church services. The tactic was: <strong>**Impress people and they'll listen to you.**</strong></p>&#13;

@@ -1,6 +1,6 @@
 ---
 date: 2012-03-14
-title: "Blog Post: You don't want to be a leader"
+title: "You don't want to be a leader"
 ---
 <p>We live in a culture where "leadership" is the ultimate. It's a linear path that everyone is on, from peon to president. Only a select few ever reach the promised land. The rest give up or die trying.</p>&#13;
 <p>I think this is a complete load of crap. Here are four reasons:</p>&#13;

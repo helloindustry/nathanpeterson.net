@@ -1,6 +1,6 @@
 ---
 date: 2013-11-03
-title: "Blog Post: I Lack Internal Clarity"
+title: "I Lack Internal Clarity"
 ---
 <p>Cloudiness. This may be one of my biggest problems. Not lack of energy or capacity or even courage. But a lack of <em>clarity</em>. Particularly clarity in what is happening inside my self. It&#8217;s a crowded room in there. Lots of activity, voices, sentences, ideas - but combined, it&#8217;s just a lot of noise and leads to nowhere. Somewhere in there is my voice. Somewhere in there, the quietest voice, is God&#8217;s whisper.</p>
 

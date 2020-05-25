@@ -1,6 +1,6 @@
 ---
 date: 2012-12-01
-title: "Blog Post: Avoiding Excitement"
+title: "Avoiding Excitement"
 ---
 <p>There&#8217;s something within me that blows off things that excite me in exchange for things more generally accepted by my culture. If I pursue what excites me I have to feel selfish and guilty. If I pursue accepted things, I feel righteous - like God is happy with me. Like giving up magic to become a missionary. It sounds like the right thing to do. But it doesn't feel right at all.</p>
 

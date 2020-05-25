@@ -1,6 +1,6 @@
 ---
 date: 2014-06-21
-title: "Blog Post: Hello Industry's Video Rig"
+title: "Hello Industry's Video Rig"
 ---
 Our band recently decided it was time to create our own little video rig for self-produced music videos. For videos where we aren't hiring a production company, but need high quality results. It took MONTHS of research and gear testing and trial and error, but we've finally landed on a very modest setup that gives us a good baseline for our self-produced videos. I thought I'd share what we came up with - maybe save someone else out there some time. Here you go:
 

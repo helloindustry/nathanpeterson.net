@@ -1,6 +1,6 @@
 ---
 date: 2019-10-04
-title: "Blog Post: Adulthood"
+title: "Adulthood"
 ---
 Somewhere along the line, the people I see as adults have become the same age, or younger, than I am!
 

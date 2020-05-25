@@ -1,6 +1,6 @@
 ---
 date: 2012-11-07
-title: "Blog Post: Listening pt1 (your band)"
+title: "Listening pt1 (your band)"
 ---
 <p>A few thoughts on listening to bandmates on stage:</p>&#13;
 <p>Many church bands seem more concerned with getting through a song than they are with saying anything alive or helpful. The thought seems to be that if we start and end in the same place and eliminate mistakes as much as possible in between, then we did our job. I disagree.</p>&#13;

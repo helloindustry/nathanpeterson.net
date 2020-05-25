@@ -1,6 +1,6 @@
 ---
 date: 2012-03-28
-title: "Blog Post: Lose The Music Stands"
+title: "Lose The Music Stands"
 ---
 <p>This is a little tweak but makes a considerable difference:</p>
 

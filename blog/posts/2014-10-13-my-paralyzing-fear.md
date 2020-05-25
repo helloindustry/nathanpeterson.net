@@ -1,6 +1,6 @@
 ---
 date: 2014-10-13
-title: "Blog Post: My Paralyzing Fear"
+title: "My Paralyzing Fear"
 ---
 <p>Heather and I recently developed an addiction to the show <em>The Voice</em>. Lately, possibly as a result of watching The Voice every night, I&#8217;ve had recurring dreams about performing and people being utterly unimpressed with me. I picture myself as a performer on the show and I imagine these two scenarios: (1) I sing and no chairs turn - the general response is <em>indifference</em>. (2) They love it - then all I can think is &#8220;Crap, that was a fluke. They&#8217;ll find out the truth next time and be <em>disappointed</em>&#8221;.</p>
 

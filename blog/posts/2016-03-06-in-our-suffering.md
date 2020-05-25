@@ -1,6 +1,6 @@
 ---
 date: 2016-03-06
-title: "Blog Post: In our suffering"
+title: "In our suffering"
 ---
 I&#x27;m overwhelmed by the pain and uncertainty so many of our friends are going through right now, not to mention our own.
 

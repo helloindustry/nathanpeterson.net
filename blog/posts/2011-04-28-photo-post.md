@@ -1,6 +1,6 @@
 ---
 date: 2011-04-28
-title: "Blog Post: Photo post"
+title: "Photo"
 tag: post
 layout: blog.html
 ---

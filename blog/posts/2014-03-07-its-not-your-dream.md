@@ -1,6 +1,6 @@
 ---
 date: 2014-03-07
-title: "Blog Post: It's Not Your Dream"
+title: "It's Not Your Dream"
 ---
 <p>If you&#8217;re a musician, making music is your responsibility, not your dream.</p>
 

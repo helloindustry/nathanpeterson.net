@@ -1,6 +1,6 @@
 ---
 date: 2018-08-31
-title: "Blog Post: New Single Today!"
+title: "New Single Today!"
 ---
 Today I'm excited to release my newest single, "Don't Rush To Get Up": http://smarturl.it/dontrushtogetup
 

@@ -1,6 +1,6 @@
 ---
 date: 2012-04-12
-title: "Blog Post: Book Recommendation - Rework"
+title: "Book Recommendation - Rework"
 ---
 <p align="center"><a href="http://www.amazon.com/Rework-Jason-Fried/dp/0307463745" target="_blank"><img alt="Rework by Jason Fried and David Heinemeier Hansson" src="/images/6e2729f05707dda8118bb1a5c62d7d0882d76a79bd89f32e6e4a7b61a1a6eb20.jpg" /></a></p>&#13;
 <p>This is the most helpful business book I've read, ever. That's a pretty big statement considering what a business-book junkie I am. I just finished reading it for a second time.</p>&#13;

@@ -1,6 +1,6 @@
 ---
 date: 2019-05-19
-title: "Blog Post: Replacing panic with play"
+title: "Replacing panic with play"
 ---
 This is one of the most vivid (to me) pictures of what it is to be restored—whole.
 

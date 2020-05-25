@@ -1,6 +1,6 @@
 ---
 date: 2014-12-16
-title: "Blog Post: Learning From Ourself"
+title: "Learning From Ourself"
 ---
 <p>A large part of my &#8220;task list&#8221; lately is to sit down and figure out what I&#8217;m thinking. Funny how such a foreign thought to me just a few years ago has now become the most important task on my list.</p>
 

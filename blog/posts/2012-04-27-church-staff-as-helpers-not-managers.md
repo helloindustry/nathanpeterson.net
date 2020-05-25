@@ -1,6 +1,6 @@
 ---
 date: 2012-04-27
-title: "Blog Post: Church Staff As Helpers, Not Managers"
+title: "Church Staff As Helpers, Not Managers"
 ---
 <p>After 14yrs working with volunteer musicians and leaders, I&#8217;m questioning a common mindset I see in church staff leadership, and in myself: <strong>Managerial leadership.</strong></p>
 

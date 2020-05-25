@@ -1,6 +1,6 @@
 ---
 date: 2017-03-17
-title: "Blog Post: These Moments"
+title: "These Moments"
 ---
 I spoke these words one year ago at Olivia&#x27;s funeral. So many things are still true. We still can&#x27;t hold our heads up. Fear is stronger than ever, pushing us to do anything or be anywhere other than these moments. These moments, which are full of pain. These moments, which are confusing and cloudy. These moments, which ache with emptiness. These moments, which we can never get back, because these moments are life.
 

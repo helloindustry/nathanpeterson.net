@@ -1,6 +1,6 @@
 ---
 date: 2018-11-09
-title: "Blog Post: My newest single: Marathon 🌊🎈😌"
+title: "My newest single: Marathon 🌊🎈😌"
 ---
 http://smarturl.it/notamarathon
 

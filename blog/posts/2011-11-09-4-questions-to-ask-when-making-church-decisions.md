@@ -1,6 +1,6 @@
 ---
 date: 2011-11-09
-title: "Blog Post: 4 Questions to Ask When Making Church Decisions"
+title: "4 Questions to Ask When Making Church Decisions"
 ---
 <p>1. Are the members of the church (the actual people who make up the church) owning and driving this or are they being dragged along?</p>
 <p>2. Are the leaders excited about this?</p>

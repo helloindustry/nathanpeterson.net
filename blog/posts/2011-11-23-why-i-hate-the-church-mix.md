@@ -1,6 +1,6 @@
 ---
 date: 2011-11-23
-title: "Blog Post: Why I Hate the \"Church Mix\""
+title: "Why I Hate the \"Church Mix\""
 ---
 <p><strong>The "Church Mix"</strong></p>
 <p>First imagine a mix of music the way you're used to hearing it on your iPod or in concert...</p>

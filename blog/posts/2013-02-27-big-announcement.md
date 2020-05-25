@@ -1,6 +1,6 @@
 ---
 date: 2013-02-27
-title: "Blog Post: Big Announcement"
+title: "Big Announcement"
 ---
 <p>This fall, after 10 years on staff, I&#8217;ll be stepping down from my position at Richwoods Christian Church. To be clear, Richwoods has initiated the change. But there is no scandal, no moral failure or falling out. We're on good terms. I still love and support my church and am excited to see them grow without me. Heather and I plan to continue attending Richwoods as our home church.</p>
 <p>This was the final nudge I needed. So...</p>

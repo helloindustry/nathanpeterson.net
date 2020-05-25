@@ -1,6 +1,6 @@
 ---
 date: 2018-01-08
-title: "Blog Post: Time and Trust"
+title: "Time and Trust"
 ---
 Here is a practical way to approach trust (faith) today, with time. Time is something we generally feel is ours and under our control. We can share it, allocate it, hoard it, manage it… but that is not reality. The reality is that we have zero control over time. Our attempts to feel like we do, with all our time-management strategies, are only a way to feel differently about our relationship to time, but none of our attempts do anything to change the fact. Time is not ours; it is not under our control. Attempting to control something which is not ours to control is the opposite of trust (faith). So today, explore letting go of the idea of controlling your time. Test the opposite of control. Explore trust in relation to time.
 

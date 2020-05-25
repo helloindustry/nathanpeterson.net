@@ -1,6 +1,6 @@
 ---
 date: 2016-05-16
-title: "Blog Post: Fear at the door, Rest inside."
+title: "Fear at the door, Rest inside."
 ---
 A few years ago I heard the word “rest”.
 I realized how horrible I was at it. I wasn’t even sure what it was. Is it extra sleep? Is it not working on Sundays? Shortly after I heard this word, my life started changing. For one reason or another, one by one, the things I occupied myself with were stripped away until I found myself with nothing to hold onto. Two years ago I was in a panic - wondering how we were going to make ends meet. Everything in me said to get on email, get on the phone, to make the next thing happen, like i’d always done. Anyone who knows me knows I’m someone who can make whatever happen, happen, if I want to. If I don’t know how I’ll buy a book and learn. Anything i’ve ever wanted I’ve found a way to get. Then I heard the word again- “rest”. What?! Now? No. My family is depending on me. My reputation is as stake. I don’t have time for rest. I’ll rest when things are ok.

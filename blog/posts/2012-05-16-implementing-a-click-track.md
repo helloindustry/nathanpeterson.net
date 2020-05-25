@@ -1,6 +1,6 @@
 ---
 date: 2012-05-16
-title: "Blog Post: Implementing A Click Track"
+title: "Implementing A Click Track"
 ---
 <p>I've had some people ask me about how we do our click tracks with <a href="http://helloindustry.com/" target="_blank">Hello Industry</a> and at <a href="https://www.richwoods.org/" target="_blank">Richwoods</a>. Hope this helps.</p>&#13;
 <p><strong>TOOLS</strong></p>&#13;

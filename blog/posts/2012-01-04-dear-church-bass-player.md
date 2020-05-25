@@ -1,6 +1,6 @@
 ---
 date: 2012-01-04
-title: "Blog Post: Dear Church Bass Player"
+title: "Dear Church Bass Player"
 ---
 Or any bass player (I just see this a lot in church players)...
 

@@ -1,6 +1,6 @@
 ---
 date: 2012-02-21
-title: "Blog Post: Worship Leaders have a lot to learn from Spin Instructors"
+title: "Worship Leaders have a lot to learn from Spin Instructors"
 ---
 Here's what a great Spin Instructor does:
 
