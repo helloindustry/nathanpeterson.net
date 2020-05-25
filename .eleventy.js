@@ -1,5 +1,3 @@
-const pluginRss = require("@11ty/eleventy-plugin-rss");
-
 module.exports = eleventyConfig => {
   // Copy our static assets to the output folder
   templateFormats: ["html", "liquid", "njk", "md", "ico"]
@@ -11,5 +9,4 @@ module.exports = eleventyConfig => {
     dynamicPartials: true,
     strict_filters: true
   });
-  eleventyConfig.addPlugin(pluginRss);
 };
