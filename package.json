@@ -1,0 +1,22 @@
+{
+  "name": "nathanpeterson.net",
+  "version": "1.0.0",
+  "description": "install needed packages",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helloindustry/nathanpeterson.net.git"
+  },
+  "author": "nathan peterson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helloindustry/nathanpeterson.net/issues"
+  },
+  "homepage": "https://github.com/helloindustry/nathanpeterson.net#readme",
+  "dependencies": {
+    "moment": "^2.26.0"
+  }
+}
