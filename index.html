@@ -193,4 +193,86 @@ summaryFile: summary-of-my-work.html
   ]
 }
 </script>
+<!-- So Am I Book Schema -->
+<script type="application/ld+json">
+{
+"@context": "http://schema.org/",
+"@type":"Book",
+"name":"So Am I",
+"author" :{
+   "@type":"Person",
+   "name":"Nathan Peterson"
+ },
+"url":"https://www.amazon.com/So-Am-Months-Living-Letting/dp/1539676382",
+"workExample": [{
+   "@type":"Book",
+   "isbn":"978-1539676386",
+   "bookEdition":"First Edition",
+   "bookFormat": "http://schema.org/Paperback",
+   "potentialAction" :{
+       "@type":"ReadAction",
+       "target":{
+           "@type":"EntryPoint",
+           "urlTemplate":"https://www.amazon.com/So-Am-Months-Living-Letting/dp/1539676382",
+           "actionPlatform": [
+               "https://schema.org/DesktopWebPlatform",
+               "https://schema.org/IOSPlatform",
+               "https://schema.org/AndroidPlatform"
+             ]
+           },
+       "expectsAcceptanceOf": {
+          "@type":"Offer",
+          "priceCurrency":"$15",
+          "price":"15",
+          "eligibleRegion": {
+               "@type":"Country",
+               "name":"US"
+          },
+       "availability":"https://schema.org/InStock"
+       }
+   }
+ }]
+}
+</script>
+<!-- Dance Again Book Schema -->
+<script type="application/ld+json">
+{
+"@context": "http://schema.org/",
+"@type":"Book",
+"name":"Dance Again",
+"author" :{
+   "@type":"Person",
+   "name":"Nathan Peterson"
+ },
+"url":"https://www.amazon.com/Dance-Again-Healing-Nathan-Peterson/dp/1985382814",
+"workExample": [{
+   "@type":"Book",
+   "isbn":"978-1985382817",
+   "bookEdition":"First Edition",
+   "bookFormat": "http://schema.org/Paperback",
+   "potentialAction" :{
+       "@type":"ReadAction",
+       "target":{
+           "@type":"EntryPoint",
+           "urlTemplate":"https://www.amazon.com/Dance-Again-Healing-Nathan-Peterson/dp/1985382814",
+           "actionPlatform": [
+               "https://schema.org/DesktopWebPlatform",
+               "https://schema.org/IOSPlatform",
+               "https://schema.org/AndroidPlatform"
+             ]
+           },
+       "expectsAcceptanceOf": {
+          "@type":"Offer",
+          "priceCurrency":"$15",
+          "price":"15",
+          "eligibleRegion": {
+               "@type":"Country",
+               "name":"US"
+          },
+       "availability":"https://schema.org/InStock"
+       }
+   }
+ }]
+}
+</script>
 <!-- END OF SCHEMA -->
