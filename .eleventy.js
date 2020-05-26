@@ -1,3 +1,6 @@
+const moment = require('moment');
+moment.locale('en');
+
 module.exports = eleventyConfig => {
   // Copy our static assets to the output folder
   templateFormats: ["html", "liquid", "njk", "md", "ico"]
@@ -9,20 +12,9 @@ module.exports = eleventyConfig => {
     dynamicPartials: true,
     strict_filters: true
   });
-};
-
-
-
-const moment = require('moment');
-
-moment.locale('en');
-
-module.exports = function (eleventyConfig) {
-
   eleventyConfig.addFilter('dateIso', date => {
     return moment(date).toISOString();
   });
-
   eleventyConfig.addFilter('dateReadable', date => {
     return moment(date).format('LL'); // E.g. May 31, 2019
   });
