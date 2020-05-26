@@ -6,12 +6,16 @@ const pluginRss = require("@11ty/eleventy-plugin-rss"); //RSS
 module.exports = eleventyConfig => {
 
   // Copy our static assets to the output folder
-  templateFormats: ["html", "liquid", "njk", "md", "ico"]
+  templateFormats: ["html", "liquid", "njk", "md"]
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy("blog/images");
   eleventyConfig.addPassthroughCopy("favicon.ico");
-  eleventyConfig.addPassthroughCopy("png");
+  eleventyConfig.addPassthroughCopy("apple-touch-icon.png");
+  eleventyConfig.addPassthroughCopy("favicon-16x16.png");
+  eleventyConfig.addPassthroughCopy("favicon-32x32.png");
+  eleventyConfig.addPassthroughCopy("android-chrome-192x192.png");
+  eleventyConfig.addPassthroughCopy("android-chrome-384x384.png");
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
     strict_filters: true
