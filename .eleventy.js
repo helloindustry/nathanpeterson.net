@@ -1,7 +1,10 @@
 const moment = require('moment');
 moment.locale('en');
 
+const pluginRss = require("@11ty/eleventy-plugin-rss"); //RSS
+
 module.exports = eleventyConfig => {
+
   // Copy our static assets to the output folder
   templateFormats: ["html", "liquid", "njk", "md", "ico"]
   eleventyConfig.addPassthroughCopy("css");
@@ -18,4 +21,6 @@ module.exports = eleventyConfig => {
   eleventyConfig.addFilter('dateReadable', date => {
     return moment(date).format('LL'); // E.g. May 31, 2019
   });
+  eleventyConfig.addPlugin(pluginRss); // RSS
+
 };

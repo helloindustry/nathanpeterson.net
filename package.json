@@ -18,5 +18,8 @@
   "homepage": "https://github.com/helloindustry/nathanpeterson.net#readme",
   "dependencies": {
     "moment": "^2.26.0"
+  },
+  "devDependencies": {
+    "@11ty/eleventy-plugin-rss": "^1.0.7"
   }
 }
