@@ -5,7 +5,7 @@ layout: default.html
   <div class="container" style="min-height:80vh;margin-top:50px;max-width:1000px;">
     <h1 class="title" style="margin-bottom:10px;">{{ title }}</h1>
     <div style="color:#ddd;font-size:12px;margin-bottom:22px;">
-      Published on {{ date }}
+      Published on <time datetime="{{ post.date | dateIso }}">{{ post.date | dateReadable }}</time>
     </div>
 
     <article class="spaced-paragraphs">
