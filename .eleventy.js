@@ -11,6 +11,7 @@ module.exports = eleventyConfig => {
   eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy("blog/images");
   eleventyConfig.addPassthroughCopy("favicon.ico");
+  eleventyConfig.addPassthroughCopy("png");
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
     strict_filters: true
