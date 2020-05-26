@@ -7,7 +7,7 @@ layout: default.html
     <ul>
       {% for blog in collections.post | reverse %}
       <h1 style="font-size:18px;margin-bottom:0px;"><a href="{{ blog.url }}">{{ blog.data.title }}</a></h1>
-      <p style="font-size:12px;color:#ddd;margin-top:0px;margin-bottom:25px;">{{ blog.data.date }}</p>
+      <p style="font-size:12px;color:#ddd;margin-top:0px;margin-bottom:25px;"><time datetime="{{ blog.data.date | dateIso }}">{{ blog.data.date | dateReadable }}</time></p>
       {%- endfor -%}
     </ul>
     </div>
