@@ -6,7 +6,7 @@ const pluginRss = require("@11ty/eleventy-plugin-rss"); //RSS
 module.exports = eleventyConfig => {
 
   // Copy our static assets to the output folder
-  templateFormats: ["html", "liquid", "njk", "md"]
+  templateFormats: ["html", "liquid", "njk", "md", "txt"]
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy("blog/images");
