@@ -1,2 +1,14 @@
 [[plugins]]
 package = "@netlify/plugin-sitemap"
+
+[[redirects]]
+from = "/dance-again"
+to = "/songs-about-life"
+status = 301
+force = false
+
+[[redirects]]
+from = "/so-am-i"
+to = "/songs-about-life"
+status = 301
+force = false
