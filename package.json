@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/helloindustry/nathanpeterson.net#readme",
   "dependencies": {
+    "bulma": "^0.9.0",
     "moment": "^2.26.0"
   },
   "devDependencies": {
