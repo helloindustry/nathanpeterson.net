@@ -1,11 +1,64 @@
 ---
 date: 2011-05-07
-title: "Some Random Thoughts on Church and Worship Ministry"
+title: "Some Random Thoughts on Church and Worship
+Ministry"
 ---
-<p>I friend from church asked me to share some thoughts on worship ministry in churches with him for a school project. I figured I'd post it here in case the topic intrigued anyone else. Just some random thoughts...</p>
-<p>---</p>
-<p><strong>Worship Ministry Philosophy-</strong> It's more of a general ministry philosophy, but most of what I do is based on the believe that the Church should do the work of the Church. I'm not called to make music on Sundays. I'm called to help the gifted worship leaders at Richwoods make music and lead worship on Sundays. So most of my time and energy (ideally) is spend helping and challenging our band leaders however I can. I believe that each of them have a similar responsibility to the musicians around them and that there shouldn't be a huge distinction between non-believer and believer musicians except when it comes to actually leading from a microphone. I've gone back and forth on that last one, but I've seen so many transformations happen as a result of letting non-believers play on the stage. Plus, they're typically better than church musicians (general statement, but I still find it to be true in my experience), so they do a great job helping the Church in a place it really needs help. One more thought on believer vs non-believer band members -&gt; we're all on a journey. Whether or not we say we've totally committed to following Jesus, we all fall short. I'd like to work with honest people who are looking for God.</p>
-<p><br /><strong>Service prep-</strong> Our band leaders choose the songs. They look at Jim's notes to try to get an idea of where he's going. They (hopefully) pray over it and then choose some songs based on what they're sensing. Then they trust God to make sense of it on Sunday. :)</p>
-<p><br /><strong>Tools-</strong> We use www.planningcenteronline.com. Helps keep us somewhat organized.</p>
-<p><br /><strong>My Passion-</strong> I personally am passionate about a worship service being as honest as possible. That's not so much a style thing, but it does impact style. It's why we have real drums instead of electric ones. It's why we choose songs that (hopefully) have some meaning and relevance to them and aren't just all ra-ra-Jesus songs. It's why we don't have flashy 3D crosses flying around behind the lyrics of the music on the screens. I'm also passionate about giving gifted people a limitless avenue to share their gifts (someone who is an awesome drummer should play drums, songwriters should write songs and share them, audio production companies who run sound for real secular rock bands should install our church's sound system, etc), as long as it stays honest, generally helpful to people, and retains musically/artistically integrity.</p>
-<p><br /><strong>A Rant-</strong> One last thought: I see a big trend in the Church today to emulate other churches. I think this is leading to a high-pressure, take-ourselves-way-too-seriously, high-burnout environment. And sadly, the end result is very mediocre at best. I see a huge need in the Church to let go of some of what they think "church" should be like - to get off Northpoint's blog, take a break from the church-media conferences, and take a look around them. To start making decisions based on (a) who is here now and (b) what has God made us to become. The chances that God has made all of us to look the same are very slim. I'm in a rock band, so I bring rock music and similar production to Richwoods. That attracts more rock musicians, so we keep doing it. But that's not the only way to worship - and if someone who has 2 musicians in their church sees us and decides that's what "church" is, they've taken the first step on a long and painful journey to eventually destroy their church.</p>
+
+I friend from church asked me to share some thoughts on worship ministry in
+churches with him for a school project. I figured I'd post it here in case the
+topic intrigued anyone else. Just some random thoughts...
+
+---
+
+__Worship Ministry Philosophy-__ It's more of a general ministry philosophy,
+but most of what I do is based on the believe that the Church should do the
+work of the Church. I'm not called to make music on Sundays. I'm called to
+help the gifted worship leaders at Richwoods make music and lead worship on
+Sundays. So most of my time and energy (ideally) is spend helping and
+challenging our band leaders however I can. I believe that each of them have a
+similar responsibility to the musicians around them and that there shouldn't
+be a huge distinction between non-believer and believer musicians except when
+it comes to actually leading from a microphone. I've gone back and forth on
+that last one, but I've seen so many transformations happen as a result of
+letting non-believers play on the stage. Plus, they're typically better than
+church musicians (general statement, but I still find it to be true in my
+experience), so they do a great job helping the Church in a place it really
+needs help. One more thought on believer vs non-believer band members -> we're
+all on a journey. Whether or not we say we've totally committed to following
+Jesus, we all fall short. I'd like to work with honest people who are looking
+for God.
+
+__Service prep-__ Our band leaders choose the songs. They look at Jim's notes
+to try to get an idea of where he's going. They (hopefully) pray over it and
+then choose some songs based on what they're sensing. Then they trust God to
+make sense of it on Sunday. :)
+
+__Tools-__ We use www.planningcenteronline.com. Helps keep us somewhat
+organized.
+
+__My Passion-__ I personally am passionate about a worship service being as
+honest as possible. That's not so much a style thing, but it does impact
+style. It's why we have real drums instead of electric ones. It's why we
+choose songs that (hopefully) have some meaning and relevance to them and
+aren't just all ra-ra-Jesus songs. It's why we don't have flashy 3D crosses
+flying around behind the lyrics of the music on the screens. I'm also
+passionate about giving gifted people a limitless avenue to share their gifts
+(someone who is an awesome drummer should play drums, songwriters should write
+songs and share them, audio production companies who run sound for real
+secular rock bands should install our church's sound system, etc), as long as
+it stays honest, generally helpful to people, and retains
+musically/artistically integrity.
+
+__A Rant-__ One last thought: I see a big trend in the Church today to emulate
+other churches. I think this is leading to a high-pressure, take-ourselves-
+way-too-seriously, high-burnout environment. And sadly, the end result is very
+mediocre at best. I see a huge need in the Church to let go of some of what
+they think "church" should be like - to get off Northpoint's blog, take a
+break from the church-media conferences, and take a look around them. To start
+making decisions based on (a) who is here now and (b) what has God made us to
+become. The chances that God has made all of us to look the same are very
+slim. I'm in a rock band, so I bring rock music and similar production to
+Richwoods. That attracts more rock musicians, so we keep doing it. But that's
+not the only way to worship - and if someone who has 2 musicians in their
+church sees us and decides that's what "church" is, they've taken the first
+step on a long and painful journey to eventually destroy their church.

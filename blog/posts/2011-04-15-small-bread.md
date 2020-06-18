@@ -2,4 +2,18 @@
 date: 2011-04-15
 title: "Small Bread"
 ---
-<div class='posterous_autopost'><p>Then Jesus passed around the smallest most crunchy piece of "bread" the disciples had ever seen along with a quarter-sip of grape juice to wash it down. He instructed them to face forward, ignore each other, to think about how we was going to die for them and how sucky that made them, and then once they had accepted that fact they could down the bread and the juice. (The key here is to wait until you get together, then completely ignore each other. Don't smile.) Then He instructed them to repeat this process once per week for the rest of eternity.<p />I'm not complaining about the size of the bread. But I think the size may be indicative of the state of the entire process as it stands in the American Church today.<p />Maybe it's time to re-think this.</p></div>
+
+Then Jesus passed around the smallest most crunchy piece of "bread" the
+disciples had ever seen along with a quarter-sip of grape juice to wash it
+down. He instructed them to face forward, ignore each other, to think about
+how we was going to die for them and how sucky that made them, and then once
+they had accepted that fact they could down the bread and the juice. (The key
+here is to wait until you get together, then completely ignore each other.
+Don't smile.) Then He instructed them to repeat this process once per week for
+the rest of eternity.
+
+I'm not complaining about the size of the bread. But I think the size may be
+indicative of the state of the entire process as it stands in the American
+Church today.
+
+Maybe it's time to re-think this.

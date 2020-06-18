@@ -2,4 +2,30 @@
 date: 2011-04-15
 title: "Spinning my creative wheels"
 ---
-<div class='posterous_autopost'><p>Does anyone else deal with this?</p>  <p>I started my week about 3hrs ago. I've spent these 3hrs planning out how I'm going to spend my week. Got it all down. It's mostly emails and touching base with people. Researching this or that. Putting out a few fires and making a few things work better. Feels like "the norm" and I guess it's fine. But then the idea of finishing a song I'm writing or working on a mix or testing out a new piece of gear comes into my mind and for a second I feel alive and excited and energized. So I say to myself "I'll get thru all of these other things quickly so I can get to the good stuff". Half way thru the week (or even the first day) I'm exhausted from logistical and relational overload and have no energy (or desire) to do the "good stuff" anymore. So it never gets done. And a part of me puts off living for another week.</p>  <p>The hardest part is, most of the other things... I can't remember them a few weeks after I've done them. Yet when I actually find time to write a new song it stays with me forever. Literally, my whole life. I've been playing songs I wrote 10yrs ago for people who have never heard them, still, today. I've heard from people half way across the world in the past month who have been listening to music I spent 1 day writing 10yrs ago, and it's genuinely helping them. That seems valuable, doesn't it?</p>  <p>Maybe it's the difference between making something new and maintaining something already made. Maintenance is important for sure. But if <em>everyone</em> is maintaining, what is it that we're maintaining?</p></div>
+
+Does anyone else deal with this?
+
+I started my week about 3hrs ago. I've spent these 3hrs planning out how I'm
+going to spend my week. Got it all down. It's mostly emails and touching base
+with people. Researching this or that. Putting out a few fires and making a
+few things work better. Feels like "the norm" and I guess it's fine. But then
+the idea of finishing a song I'm writing or working on a mix or testing out a
+new piece of gear comes into my mind and for a second I feel alive and excited
+and energized. So I say to myself "I'll get thru all of these other things
+quickly so I can get to the good stuff". Half way thru the week (or even the
+first day) I'm exhausted from logistical and relational overload and have no
+energy (or desire) to do the "good stuff" anymore. So it never gets done. And
+a part of me puts off living for another week.
+
+The hardest part is, most of the other things... I can't remember them a few
+weeks after I've done them. Yet when I actually find time to write a new song
+it stays with me forever. Literally, my whole life. I've been playing songs I
+wrote 10yrs ago for people who have never heard them, still, today. I've heard
+from people half way across the world in the past month who have been
+listening to music I spent 1 day writing 10yrs ago, and it's genuinely helping
+them. That seems valuable, doesn't it?
+
+Maybe it's the difference between making something new and maintaining
+something already made. Maintenance is important for sure. But if *everyone*
+is maintaining, what is it that we're maintaining?
+

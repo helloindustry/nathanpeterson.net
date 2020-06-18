@@ -2,16 +2,81 @@
 date: 2013-02-21
 title: "What If You're Still Good?"
 ---
-<p><strong>One of he hardest and most crucial challenges we face in this life is to see ourselves the way God sees us, and to live true to that image.</strong></p>
-<p>It's hard because everyone around us seems to have something to gain by telling us who we are. Our family looks bad if we don't turn out, so they need us to finish college, get a good job, and raise more good kids. Our friends need us to be there for them, so there's no room for break-downs or freak-outs. Our church needs us to volunteer. Be involved. Because what's more important than serving God? Our spouse or girl/boyfriend needs us to be strong and responsible. Don't get sick. Don't look weak or ugly, or you may lose your appeal.</p>
-<p>It's hard because somewhere along the line we've decided that God has similar requirements, right? So if I do something wrong, I immediately feel far from God - like He saw what I did, got up, and walked away. Just until the sin wears off, then He slowly creeps back to my side. It makes God sound immature when I put it that way, but deep down most of us feel like that's how it works. How do we get God to be happy with us? Sin less. Read the Bible. Help others. Be self-sacrificing. Go to church. Volunteer an ungodly amount of time at church. Raise our hands when we worship. Say profound things when we pray. Don't do this. Do that. This is what a good Christian looks like. Once we've achieved it, we convince others to achieve it as well. We call it evangelism and discipleship and treat it as God's highest priority. It's what makes Him happy. As if God needed something from us to be happy or complete. And as if God wanted us each to look exactly the same.</p>
-<p>Everyone around us needs us to be someone, God included.</p>
-<p>So they tell us who we are until we believe it. They manipulate us into being who they need us to be until we cooperate.</p>
-<p>But we never quite cut it.</p>
-<p>The result? We live a life of ever increasing fear and failure and angst. Eventually we disappoint everyone important to us. Even God. We become frustrated with ourselves. We try harder and do more, but the harder we try the less we recognize what we see when we look in the mirror&hellip; the less we like what we see. Eventually we run out of steam. In the end, we have no idea who we are, and we're done trying.</p>
-<p><strong>But what if you're still good?</strong></p>
-<p>What if someone could convince you that you're already there. That you're already <em>exactly</em> the person you were supposed to be. Like, really convince you. What if there was no more work to be done? No career that would finally get you there. No relationship that would complete you. No accomplishment that would set you apart. What if the person you <em>really</em> are wasn't "out there" somewhere, but was already well within your reach, safe inside you, at the very deepest center of your self? And the only job that needed to be done was to <em>peel off</em> the layers of makeup and residue left from pretending to be someone you're not, until all that remained was the original - the you that existed, innocently, cheerfully, <em>effortlessly</em>, naively, back when you were a 3 year old kid and walked around like you were the best thing ever.</p>
-<p><strong>You haven't changed since you were 3.</strong> You've only been covered up. The real you, the perfect you, is still here, today. The work that needs to be done is the exact opposite of what we feel compelled by the people around us to do. We've got to stop layering identities <em>on</em> and start peeling them <em>off</em>.</p>
-<p>Practically speaking, I think this requires lots of time in quiet and non-activity. It involves journaling and reading old journals. It involves asking questions to the few people in our lives who don't have anything to gain by controlling us. I believe it requires direct help from God, who created the real us in the first place. <strong>And He will help</strong>. In fact, I've come to believe that God is more passionate about restoring us to His original design than He is about anything else. I've watched Him <em>tear through walls</em> to restore students who have already become someone they're not. He is <em>relentless</em> in this. He <em>will</em> help. But we need to stop working against Him.</p>
-<p>Disclaimer: Some people around you have worked very hard to put these layers on you. Once you start removing them you can expect to upset them. You may lose a friend or a career. But you'll gain your freedom and restore your real self. There's no comparison.</p>
-<p><em><a href="http://helloindustry.bandcamp.com/track/ugly" title="http://helloindustry.bandcamp.com/track/ugly">This song is the soundtrack to this post.</a></em></p>
+
+__One of he hardest and most crucial challenges we face in this life is to see
+ourselves the way God sees us, and to live true to that image.__
+
+It's hard because everyone around us seems to have something to gain by
+telling us who we are. Our family looks bad if we don't turn out, so they need
+us to finish college, get a good job, and raise more good kids. Our friends
+need us to be there for them, so there's no room for break-downs or freak-
+outs. Our church needs us to volunteer. Be involved. Because what's more
+important than serving God? Our spouse or girl/boyfriend needs us to be strong
+and responsible. Don't get sick. Don't look weak or ugly, or you may lose your
+appeal.
+
+It's hard because somewhere along the line we've decided that God has similar
+requirements, right? So if I do something wrong, I immediately feel far from
+God - like He saw what I did, got up, and walked away. Just until the sin
+wears off, then He slowly creeps back to my side. It makes God sound immature
+when I put it that way, but deep down most of us feel like that's how it
+works. How do we get God to be happy with us? Sin less. Read the Bible. Help
+others. Be self-sacrificing. Go to church. Volunteer an ungodly amount of time
+at church. Raise our hands when we worship. Say profound things when we pray.
+Don't do this. Do that. This is what a good Christian looks like. Once we've
+achieved it, we convince others to achieve it as well. We call it evangelism
+and discipleship and treat it as God's highest priority. It's what makes Him
+happy. As if God needed something from us to be happy or complete. And as if
+God wanted us each to look exactly the same.
+
+Everyone around us needs us to be someone, God included.
+
+So they tell us who we are until we believe it. They manipulate us into being
+who they need us to be until we cooperate.
+
+But we never quite cut it.
+
+The result? We live a life of ever increasing fear and failure and angst.
+Eventually we disappoint everyone important to us. Even God. We become
+frustrated with ourselves. We try harder and do more, but the harder we try
+the less we recognize what we see when we look in the mirror… the less we like
+what we see. Eventually we run out of steam. In the end, we have no idea who
+we are, and we're done trying.
+
+__But what if you're still good?__
+
+What if someone could convince you that you're already there. That you're
+already *exactly* the person you were supposed to be. Like, really convince
+you. What if there was no more work to be done? No career that would finally
+get you there. No relationship that would complete you. No accomplishment that
+would set you apart. What if the person you *really* are wasn't "out there"
+somewhere, but was already well within your reach, safe inside you, at the
+very deepest center of your self? And the only job that needed to be done was
+to *peel off* the layers of makeup and residue left from pretending to be
+someone you're not, until all that remained was the original - the you that
+existed, innocently, cheerfully, *effortlessly* , naively, back when you were
+a 3 year old kid and walked around like you were the best thing ever.
+
+__You haven't changed since you were 3.__ You've only been covered up. The
+real you, the perfect you, is still here, today. The work that needs to be
+done is the exact opposite of what we feel compelled by the people around us
+to do. We've got to stop layering identities *on* and start peeling them
+*off*.
+
+Practically speaking, I think this requires lots of time in quiet and non-
+activity. It involves journaling and reading old journals. It involves asking
+questions to the few people in our lives who don't have anything to gain by
+controlling us. I believe it requires direct help from God, who created the
+real us in the first place. __And He will help__. In fact, I've come to
+believe that God is more passionate about restoring us to His original design
+than He is about anything else. I've watched Him *tear through walls* to
+restore students who have already become someone they're not. He is
+*relentless* in this. He *will* help. But we need to stop working against Him.
+
+Disclaimer: Some people around you have worked very hard to put these layers
+on you. Once you start removing them you can expect to upset them. You may
+lose a friend or a career. But you'll gain your freedom and restore your real
+self. There's no comparison.
+
+*[This song is the soundtrack to this post.](http://helloindustry.bandcamp.com/track/ugly "http://helloindustry.bandcamp.com/track/ugly")*
+
