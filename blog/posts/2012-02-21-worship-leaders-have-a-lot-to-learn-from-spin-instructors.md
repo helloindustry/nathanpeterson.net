@@ -1,7 +1,6 @@
 ---
 date: 2012-02-21
-title: "Worship Leaders have a lot to learn from Spin
-Instructors"
+title: "Worship Leaders have a lot to learn from Spin Instructors"
 ---
 Here's what a great Spin Instructor does:
 
@@ -15,4 +14,7 @@ Here's what a great Spin Instructor does:
 
 I see many of these qualities lacking in most worship leaders, and really in church leaders as a whole.
 
-Another note: The Spin Instructor has s small, ugly, smelly room. Cheap lighting. Cheaper (but loud) sound system. No team. Tiny stage. But what she lacks in gear and staff she makes up for in raw passion, conviction, leadership and guts. She can take a group of people and turn them into an army. Worship leaders, put down your CCM or Relevant Magazine and go take a Spin class. And take notes. 
+Another note: The Spin Instructor has s small, ugly, smelly room. Cheap lighting. Cheaper (but loud) sound system. No team. Tiny stage. But what she lacks in gear and staff she makes up for in raw passion, conviction, leadership and guts. She can take a group of people and turn them into an army.
+
+Worship leaders, put down your CCM or Relevant Magazine and go take a Spin class.
+And take notes.

@@ -2,88 +2,30 @@
 date: 2019-04-01
 title: "An open letter to the Church"
 ---
-Re: the
-direction and future the Church - It is time for the people who *are* the
-Church to take responsibility for *being* the Church. - It is time for the
-leaders in the Church to gently guide the people in this direction. - The
-next step for my church community—and the rest of the Church—is to begin
-walking the narrow path, which leads into pain but also into hope, and
-ultimately towards Self and to Christ, who dwells at the center of each
-person. - The Temple is at the center of each person. As leaders of the
-Church it is our responsibility to gently guide people's attention off of the
-stage and toward the Temple. - As leaders in the Church, if we are to help
-people find and follow Christ, we must be consistently traveling inwards,
-toward the pain, the hope, the grief, the fear, the longing, the guilt, toward
-our true self, our center, toward the dwelling place of Christ. - No one can
-tell a church community who they are—that is the responsibility of the
-individuals who that community consists of, and that is a life-long process of
-discovery and of healing. This is the process which the Holy Spirit is leading
-each person through. It is life. - Multi-site, and all other stylistic
-decisions about "doing church" must become subservient to "being Church."
-Practically, this means allowing multi-site to happen naturally as a
-necessity, not as an intended outcome or goal. Nothing the Church does should
-precede who the Church is. - The next step for the Church is for the
-individuals who it consists of (not only staff or people on stage, but every
-single person who is part of the community) to find their own unique Voice—to
-take a journey of self-discovery and to cooperate with the healing the Spirit
-brings on this journey as each individual becomes more fully who they are—a
-healed, whole version of themselves. - The Church’s "success" cannot be
-measured by the number of attendees on weekends. Success is when the
-individuals who do attend grow whole and healthy enough to walk, run, fly with
-the wings and power they are given. - When this new definition of success
-takes its place, the entity of individual church organizations will become de-
-emphasized and possibly even less necessary. Church organizations will become
-less of an entity in and of itself as thousands of individual humans—whole,
-healed entities—emerge. - The definition of "Church" will change from
-something to call a given church organization—with its staff, programs, and
-building(s)—and will instead refer to the type of person who is outlined
-above. This will blur the lines between entities like Richwoods, Northwoods,
-Riverside, as those entities will be far too limited to contain what the real
-Church has become: an army of free people, of whole, integrated people, of
-healed people—temples of the Living God. - As the Church begins to take
-responsibility for being the Church, its leaders will work to remove all
-unnecessary baggage associated to what used to be identified as "church" and
-will work to gently continue to lead the individuals who are the Church on
-their journey, to face fears, feel pains, discover hope, find healing and
-strength, and to see the face of Jesus, who dwells at the center of each
-individual. - A Church leader will not be someone who executes or oversees
-programs, but instead will be someone who travels the narrow path *first*,
-then gently comes back to help the rest of the Church—Christian, non-
-Christian, anyone who is willing—down the same path in their own life. - The
-path our leaders must lead the Church down is unique to each member of the
-body. This means a large amount of responsibility to know "where we are going"
-is removed from Church leadership and is placed on each individual who the
-Church consists of. This also means a large amount of trust on the part of the
-leadership—trust in the individual to have the "map" somewhere within them,
-and trust in the Spirit to ultimately be the one who provides the direction,
-the answers, and the outcomes. - As emphasis moves from the church
-organization and its staff and leadership, the Church begins to integrate in a
-more organic way with the world around. The Church as we used to know it melts
-down and the Church the way it is becoming grows up with the rest of creation.
-This will be terrifying to all of us—leadership and members—but will be
-similar to a child who has matured enough to move out of the house and to
-interact directly with the world. - This is not to suggest that entities such
-as Richwoods, Northwoods, Riverside, etc. will become irrelevant—only that it
-is time for the role to change. - As the Church is led into being the Church,
-the individual church organization (Richwoods, Willow Creek, etc) and its
-leadership takes on a role of "helper" and "guide." Church services and
-programs become a "service to the Church", but never again to be referred to
-as "the Church." Leadership plays its own role within the body of the Church,
-by leading—being the first to take steps into the un-charted areas, led by
-God. The Church's buildings become places for the Church to be together.
-Music, communion, etc still happen, as long as they are natural results of the
-individuals who are the Church being who they are. - The functioning of the
-church-building and church-programs can never be pre-determined outcomes, but
-are allowed and encouraged results of the individuals who are the Church being
-who they are. If, instead, our leaders choose to continue filling the space
-with high quality Christian material (“home run” sermons, polished music and
-production, children’s ministry, etc), we will have taught the Church a
-crippling message: The Church is Riverside; the Church is Willow Creek; the
-Church is staff; the Church is elders; the Church is people on stage… and no
-one will complain (as people tend not to do when they are not being led
-anywhere new or significant). This is the easy way forward. This is the wide
-road, and it will lead to death. The narrow road is hard, and very few take
-it. It is the responsibility—right now—of whatever leaders the Church has left
-to choose the narrow road. Thank you for taking the time to read this. Very
-sincerely, with love and humility, Nathan Peterson
+Re: the direction and future the Church
 
+- It is time for the people who *are* the Church to take responsibility for *being* the Church.
+- It is time for the leaders in the Church to gently guide the people in this direction.
+- The next step for my church community—and the rest of the Church—is to begin walking the narrow path, which leads into pain but also into hope, and ultimately towards Self and to Christ, who dwells at the center of each person.
+- The Temple is at the center of each person. As leaders of the Church it is our responsibility to gently guide people's attention off of the stage and toward the Temple.
+- As leaders in the Church, if we are to help people find and follow Christ, we must be consistently traveling inwards, toward the pain, the hope, the grief, the fear, the longing, the guilt, toward our true self, our center, toward the dwelling place of Christ.
+- No one can tell a church community who they are—that is the responsibility of the individuals who that community consists of, and that is a life-long process of discovery and of healing. This is the process which the Holy Spirit is leading each person through. It is life.
+- Multi-site, and all other stylistic decisions about "doing church" must become subservient to "being Church." Practically, this means allowing multi-site to happen naturally as a necessity, not as an intended outcome or goal. Nothing the Church does should precede who the Church is.
+- The next step for the Church is for the individuals who it consists of (not only staff or people on stage, but every single person who is part of the community) to find their own unique Voice—to take a journey of self-discovery and to cooperate with the healing the Spirit brings on this journey as each individual becomes more fully who they are—a healed, whole version of themselves.
+- The Church’s "success" cannot be measured by the number of attendees on weekends. Success is when the individuals who do attend grow whole and healthy enough to walk, run, fly with the wings and power they are given.
+- When this new definition of success takes its place, the entity of individual church organizations will become de-emphasized and possibly even less necessary. Church organizations will become less of an entity in and of itself as thousands of individual humans—whole, healed entities—emerge.
+- The definition of "Church" will change from something to call a given church organization—with its staff, programs, and building(s)—and will instead refer to the type of person who is outlined above. This will blur the lines between entities like Richwoods, Northwoods, Riverside, as those entities will be far too limited to contain what the real Church has become: an army of free people, of whole, integrated people, of healed people—temples of the Living God.
+- As the Church begins to take responsibility for being the Church, its leaders will work to remove all unnecessary baggage associated to what used to be identified as "church" and will work to gently continue to lead the individuals who are the Church on their journey, to face fears, feel pains, discover hope, find healing and strength, and to see the face of Jesus, who dwells at the center of each individual.
+- A Church leader will not be someone who executes or oversees programs, but instead will be someone who travels the narrow path *first*, then gently comes back to help the rest of the Church—Christian, non-Christian, anyone who is willing—down the same path in their own life.
+- The path our leaders must lead the Church down is unique to each member of the body. This means a large amount of responsibility to know "where we are going" is removed from Church leadership and is placed on each individual who the Church consists of. This also means a large amount of trust on the part of the leadership—trust in the individual to have the "map" somewhere within them, and trust in the Spirit to ultimately be the one who provides the direction, the answers, and the outcomes.
+- As emphasis moves from the church organization and its staff and leadership, the Church begins to integrate in a more organic way with the world around. The Church as we used to know it melts down and the Church the way it is becoming grows up with the rest of creation. This will be terrifying to all of us—leadership and members—but will be similar to a child who has matured enough to move out of the house and to interact directly with the world.
+- This is not to suggest that entities such as Richwoods, Northwoods, Riverside, etc. will become irrelevant—only that it is time for the role to change.
+- As the Church is led into being the Church, the individual church organization (Richwoods, Willow Creek, etc) and its leadership takes on a role of "helper" and "guide." Church services and programs become a "service to the Church", but never again to be referred to as "the Church." Leadership plays its own role within the body of the Church, by leading—being the first to take steps into the un-charted areas, led by God. The Church's buildings become places for the Church to be together. Music, communion, etc still happen, as long as they are natural results of the individuals who are the Church being who they are.
+- The functioning of the church-building and church-programs can never be pre-determined outcomes, but are allowed and encouraged results of the individuals who are the Church being who they are.
+
+If, instead, our leaders choose to continue filling the space with high quality Christian material (“home run” sermons, polished music and production, children’s ministry, etc), we will have taught the Church a crippling message: The Church is Riverside; the Church is Willow Creek; the Church is staff; the Church is elders; the Church is people on stage… and no one will complain (as people tend not to do when they are not being led anywhere new or significant). This is the easy way forward. This is the wide road, and it will lead to death. The narrow road is hard, and very few take it. It is the responsibility—right now—of whatever leaders the Church has left to choose the narrow road.
+
+Thank you for taking the time to read this.
+
+Very sincerely, with love and humility,
+Nathan Peterson
