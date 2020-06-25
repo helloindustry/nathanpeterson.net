@@ -12,3 +12,9 @@ from = "/so-am-i"
 to = "/songs-about-life"
 status = 301
 force = false
+
+[[redirects]]
+from = "https://nathanpeterson.net/post/115884447368/im-so-scared-of-the-future"
+to = "https://nathanpeterson.net/blog/posts/2015-04-08-im-so-scared-of-the-future"
+status = 301
+force = false
