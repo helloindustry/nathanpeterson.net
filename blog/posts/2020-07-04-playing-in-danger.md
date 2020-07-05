@@ -1,6 +1,7 @@
 ---
 date: 2020-07-04
 title: "Playing in danger"
+permalink: "playing-in-danger/"
 ---
 Playing in danger.
 
