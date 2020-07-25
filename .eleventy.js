@@ -9,6 +9,7 @@ module.exports = eleventyConfig => {
   templateFormats: ["html", "liquid", "njk", "md"]
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("assets");
+  eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("robots.txt");
   eleventyConfig.addPassthroughCopy("blog/images");
   eleventyConfig.addPassthroughCopy("style.css");
